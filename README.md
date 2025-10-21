@@ -1,1 +1,1 @@
-Epicode Project1
+Epicode Project1 and Project2
